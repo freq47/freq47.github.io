@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "af4f12bbdf5a5c8436a3e2da8301891c"
+    "revision": "8a704f21b9bd91b9ee8cb4cf90f36f46"
   },
   {
     "url": "assets/css/styles.styles.773af5d9.css",
@@ -112,8 +112,8 @@ self.__precacheManifest = [
     "revision": "e37e2e83b5c1199f199c6cf14e2cbbf2"
   },
   {
-    "url": "assets/js/app.6517ce76.js",
-    "revision": "e321961b7e077906315e1b4f371b2736"
+    "url": "assets/js/app.45803009.js",
+    "revision": "f237756505a8ba9533fcf27fd53d6233"
   },
   {
     "url": "assets/js/styles.773af5d9.js",
@@ -181,19 +181,19 @@ self.__precacheManifest = [
   },
   {
     "url": "Fugues/index.html",
-    "revision": "5e5960160c9ff14aceb03798794b73de"
+    "revision": "447f2960d1f324fb182716c9a55bc2b9"
   },
   {
     "url": "GameModes/index.html",
-    "revision": "a60d53c1f8673b78e742f7c6e5e9f499"
+    "revision": "997399c855a203e8fe6454842631f18e"
   },
   {
     "url": "Gameover/index.html",
-    "revision": "35e50be9a06d3d8a24bf024c36ca79de"
+    "revision": "7e4fb294605fccef07c60977d25bcad7"
   },
   {
     "url": "Gameplay/index.html",
-    "revision": "8e65ff94a46a575735892b4198088529"
+    "revision": "3eebe26ecee385777c954fb6686262ae"
   },
   {
     "url": "I_icon.png",
@@ -201,11 +201,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "ef8c72ca37f9ed00bcf39e050282e418"
+    "revision": "8655085302dbbe9044dd1184da4c5604"
   },
   {
     "url": "Introduction/index.html",
-    "revision": "c7fcbf778e96a99d81977154d11ff96e"
+    "revision": "4e999c31c210888f042d4391c3f89264"
   },
   {
     "url": "Meeple_B.png",
@@ -233,7 +233,7 @@ self.__precacheManifest = [
   },
   {
     "url": "Phases/index.html",
-    "revision": "b75c988f22c4c1744b50dd73c59dc698"
+    "revision": "686f4426db57e4ae9ef4d79b1bf925e3"
   },
   {
     "url": "S_icon.png",
@@ -241,19 +241,19 @@ self.__precacheManifest = [
   },
   {
     "url": "SetExplanationAndExamples/index.html",
-    "revision": "d885a0889019aa53075056858649fa1d"
+    "revision": "e3319b87d7f006888fb9ca434eef8b48"
   },
   {
     "url": "Setup/index.html",
-    "revision": "1e839ceb79f5e6f85472d922c9be3500"
+    "revision": "e3586c5c37bbb740a4b144c8c7880e96"
   },
   {
     "url": "SoloModes/index.html",
-    "revision": "4ca2509e7123acba0bddb611d7e631c4"
+    "revision": "70011f6457e8e53ee997ef2d8f0760a2"
   },
   {
     "url": "SpiritCards/index.html",
-    "revision": "208a1a746a88bbea0ccfb01b280604dc"
+    "revision": "78b1eaac545a55a0a94d3eae9ab99fdb"
   },
   {
     "url": "V_icon.png",
